@@ -1,7 +1,8 @@
 (Web) Crawler
 =============
 
-`usage: crawler.py [-h] [-v] [-t SECONDS] [-n] [-r] [-e filename.csv]
+```
+usage: crawler.py [-h] [-v] [-t SECONDS] [-n] [-r] [-e filename.csv]
                   [-d database.db] [-i]
                   url_list
 
@@ -21,6 +22,7 @@ optional arguments:
                         Specifies name for database (.db) file to store
                         crawling results (default: database.db).
   -i, --init-db         Initialize an empty DB. Could be used to erase data
-                        from an existing DB.`
+                        from an existing DB.
+```
 
 
