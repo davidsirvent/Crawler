@@ -1,4 +1,4 @@
-![alt text](https://github.com/xiribyte/Crawler/blob/master/crawler.png "Crawler logo")
+<img src="https://github.com/xiribyte/Crawler/master/crawler.png" height="128px" alt="Crawler logo">
 
 (Web) Crawler
 =============
