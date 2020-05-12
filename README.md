@@ -53,14 +53,14 @@ F. A. Q.
   <dt>Is there a ready-to-run command for lazy hackers?</dt>
   <dd><code>python3 crawler.py -ri url_list.txt</code></dd>
   <dt>Why <code> --not-only-onion </code> option?</dt>
-  <dd>It started to specificly crawl into onion sites, clearnet option (<code>--not-only-onion</code>) was added later.</dd>
+  <dd>It started to specifically crawl into onion sites, clearnet option (<code>--not-only-onion</code>) was added later.</dd>
   <dt>Always get <code> 'no such table: urls' </code> message.</dt>
   <dd>When using a database file for firs time, you need to invoke <code> --init-db </code> feature.</dd>
   <dt>I'm unable to crawl any .onion site.</dt>
   <dd>
     <ul>
       <li>First, check that url_list.txt is well formed: One url per line, must include 'http://' or 'https://.</li>
-      <li>Second, ensurels you are behind a Tor node (anonsurf or nipe.pl do the trick).</li>
+      <li>Second, ensure you are behind a Tor node (anonsurf or nipe.pl do the trick).</li>
       <li>Third, try to increase timeout.</li>
     </ul>
   </dd>
