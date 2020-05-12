@@ -3,7 +3,7 @@
 (Web) Crawler
 =============
 
-(Web) Crawler is a python script that (as you can imagine) crawl info from a web. The crawler extract (if available) title, description and all anchors storing in a sqlite database. If requested, the crawling is recursive on found Urls.
+(Web) Crawler is a python script that (as you can imagine) crawl info from a web. The crawler extracts (if available) title, description and all anchors, storing it in a sqlite database. If requested, the crawling is recursive on found Urls.
 
 ```
 usage: crawler.py [-h] [-v] [-t SECONDS] [-n] [-r] [-e filename.csv]
