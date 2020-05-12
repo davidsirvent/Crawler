@@ -65,7 +65,7 @@ F. A. Q.
     </ul>
   </dd>
   <dt>This really works?</dt>
-  <dd>As a sample, you can find a full database of onion sites crawled on [Torlinks](https://github.com/xiribyte/torlinks) repository.</dd>
+  <dd>As a sample, you can find a full database of onion sites crawled on <a href="https://github.com/xiribyte/torlinks">Torlinks</a> repository.</dd>
 </dl>
 
 
